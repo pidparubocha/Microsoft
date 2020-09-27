@@ -1,0 +1,90 @@
+body{
+    background-color: #00a2f7;
+    color: darkgrey;
+    font-family: Tahoma;
+    font-style: italic;
+}
+.headname{
+    padding: 20px 75px 20px 75px;
+margin: 30px 120px 15px 20px;
+    width: calc(100% - 190px);
+    border-radius: 50px 25px 50px 15px;
+    background-color: white;
+}
+.headpic-img{
+    height: 100px;
+    width: 100px;
+    padding-bottom: 10px;
+}
+.title1{
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.number1{
+text-align: left;
+    color: black;
+    background-color: white;
+    margin: 50px 180px 50px 50px;
+    border-radius: 35px 15px 35px 15px;
+    padding: 20px 25px 20px 25px;
+}
+.number2{
+    text-align: left;
+    color: black;
+    background-color: white;
+    margin: 50px 20px 50px 230px;
+    border-radius: 35px 15px 35px 15px;
+    padding: 20px 25px 20px 25px;
+}
+.slide1{
+    background-image: url(../images/photo01.jpg);
+    width: calc(100% - 40px);
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 25px 25px;
+    margin: 30px 20px 15px 20px;
+}
+.number3{
+    text-align: left;
+    color: black;
+    background-color: white;
+    margin: 50px 180px 50px 50px;
+    border-radius: 35px 15px 35px 15px;
+    padding: 20px 25px 20px 25px;
+}
+.number4{
+    text-align: left;
+    color: black;
+    background-color: white;
+    margin: 50px 20px 50px 230px;
+    border-radius: 35px 15px 35px 15px;
+    padding: 20px 25px 20px 25px;
+}
+.slide2{
+    background-image: url(../images/photo02.jpg);
+    width:calc(100% - 40px) ;
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 25px 25px;
+    margin: 30px 20px 15px 20px;
+}
+.number5{
+    text-align: left;
+    color: black;
+    background-color: white;
+    margin: 50px 180px 50px 50px;
+    border-radius: 35px 15px 35px 15px;
+    padding: 20px 25px 20px 25px;
+}
+.number6{
+    text-align: left;
+    color: black;
+    background-color: white;
+    margin: 50px 20px 50px 230px;
+    border-radius: 35px 15px 35px 15px;
+    padding: 20px 25px 20px 25px;
+}
